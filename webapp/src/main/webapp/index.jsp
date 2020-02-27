@@ -4,6 +4,6 @@
   <p><font color="green">Deploying on Docker!</font></p>
   <p><font color="blue">First test DevOps!</font></p>
 
-  Send me mail at mailto: r.quijarro@innopolis.university
-
-  <font color="green">This is some text!</font>
+  <body style="background-color:#7F8C8D;">
+  
+  <p><font color="white">Send me mail at mailto: r.quijarro@innopolis.university</font></p>
